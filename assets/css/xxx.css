@@ -1,0 +1,57 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+html {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    scroll-behavior: smooth;
+}
+
+.b-font-w200 {
+    font-weight: 200 !important;
+}
+
+.b-font-w300 {
+    font-weight: 300 !important;
+}
+
+.b-font-w400 {
+    font-weight: 400 !important;
+}
+
+.b-font-w600 {
+    font-weight: 600 !important;
+}
+
+.b-font-w700 {
+    font-weight: 700 !important;
+}
+
+.b-font-30 {
+    font-size: 30px;
+}
+
+.b-navbar {
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
+}
+
+.b-section-register {
+    background-image: url('');
+}
+
+.b-section-register .b-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.b-section-register .b-circle i {
+    font-size: 3rem;
+}
