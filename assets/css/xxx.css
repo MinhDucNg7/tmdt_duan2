@@ -20,6 +20,17 @@ a:hover {
     color: #0d324d !important;
 }
 
+#toTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
 .b-font-w200 {
     font-weight: 200 !important;
 }
